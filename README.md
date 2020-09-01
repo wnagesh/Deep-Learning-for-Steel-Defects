@@ -1,4 +1,4 @@
-# Deep-Learning
+# Steel Sheet Defect Classification
 This project intended to classify the 8 types of defects in the Steel sheets named as 
 
  1.crazing
